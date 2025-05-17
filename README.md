@@ -123,7 +123,7 @@ The app should now be running at http://localhost:5173
 
 ## 🤖 AI Integration (Gemini API)
 
-(1) You can find the Gemini API key by visiting Google AI Studio.
+(1) You can find the Gemini API key by visiting Google AI Studio. <br>
 (2) Make sure you handle all prompts and AI interactions securely on the frontend.
 
 <br><br>
