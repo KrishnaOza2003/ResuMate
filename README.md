@@ -131,12 +131,12 @@ The app should now be running at http://localhost:5173
 ## ✅ To-Do & Future Enhancements
 
  (1) Add PDF Preview Modal
- <br>
+  <br>
  (2) Implement Version Control for Resume Changes
- <br>
+  <br>
  (3) Integrate LinkedIn or Resume Parsing
- <br>
+  <br>
  (4) Drag-and-drop resume section ordering
- <br>
+  <br>
  (5) Auto-save on field change
- <br>
+  <br>
