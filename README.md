@@ -64,3 +64,4 @@ Resumate is an intelligent and sleek AI-powered Resume Builder that enables user
 ```bash
 git clone https://github.com/your-username/resumate-ai-resume-builder.git
 cd resumate-ai-resume-builder
+
