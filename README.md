@@ -2,7 +2,7 @@
 
 Resumate is an intelligent and sleek AI-powered Resume Builder that enables users to craft multiple, job-specific resumes with rich customization and effortless AI assistance — all in one seamless interface.
 
-![Project Banner](./screenshots/banner.png) <!-- You can replace this with your banner image -->
+![Project Banner](./img1.png) <!-- You can replace this with your banner image -->
 
 ---
 
