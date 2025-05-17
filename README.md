@@ -64,4 +64,20 @@ Resumate is an intelligent and sleek AI-powered Resume Builder that enables user
 ```bash
 git clone https://github.com/your-username/resumate-ai-resume-builder.git
 cd resumate-ai-resume-builder
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Set Up Environment Variables
+Create a .env file in the root of your project with the following keys:
+
+    VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+    VITE_STRAPI_URL=http://localhost:1337
+    VITE_GEMINI_API_KEY=your_gemini_api_key
+
+
 
