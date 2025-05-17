@@ -140,3 +140,29 @@ The app should now be running at http://localhost:5173
   <br>
  (5) Auto-save on field change
   <br>
+
+
+## ✅ Screenshots of DEMO
+
+![Project Banner](./img1.png)
+<br>
+![Project Banner](./img2.png)
+<br>
+![Project Banner](./img3.png)
+<br>
+![Project Banner](./img4.png)
+<br>
+![Project Banner](./img5.png)
+<br>
+![Project Banner](./img6.png)
+<br>
+![Project Banner](./img7.png)
+<br>
+![Project Banner](./img8.png)
+<br>
+![Project Banner](./img9.png)
+<br>
+![Project Banner](./img10.png)
+<br>
+![Project Banner](./img11.png)
+<br>
