@@ -115,7 +115,6 @@ The app should now be running at http://localhost:5173
     
 (2) Define the necessary content types (Resume, User, etc.)
 <br>
-
 (3) Enable CORS and set appropriate API permissions.
 <br>
 (4) Connect your frontend app to the Strapi backend using the base URL in .env.
@@ -126,6 +125,8 @@ The app should now be running at http://localhost:5173
 
 (1) You can find the Gemini API key by visiting Google AI Studio.
 (2) Make sure you handle all prompts and AI interactions securely on the frontend.
+
+<br><br>
 
 ## ✅ To-Do & Future Enhancements
 
