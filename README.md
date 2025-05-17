@@ -53,7 +53,7 @@ Resumate is an intelligent and sleek AI-powered Resume Builder that enables user
 
 | Login Page | Dashboard | Editor |
 |------------|-----------|--------|
-| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) | ![Editor](./screenshots/editor.png) |
+| ![Login](./img12.png) | ![Dashboard](./img1.png) | ![Editor](./img7.png) |
 
 ---
 
