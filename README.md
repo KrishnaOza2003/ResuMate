@@ -88,6 +88,7 @@ Make sure your Strapi backend and Clerk dashboard are configured accordingly.
 ### 4. Run the Development Server
     npm run dev
 The app should now be running at http://localhost:5173
+<br><br>
 
 ## 🧪 Folder Structure
 
@@ -102,7 +103,7 @@ The app should now be running at http://localhost:5173
     ├── index.html
     ├── tailwind.config.js
     └── vite.config.js
-
+<br><br>
 
 ## 📂 Backend Setup (Strapi CMS)
 
@@ -113,12 +114,13 @@ The app should now be running at http://localhost:5173
 ```
     
 (2) Define the necessary content types (Resume, User, etc.)
+<br>
 
 (3) Enable CORS and set appropriate API permissions.
-
+<br>
 (4) Connect your frontend app to the Strapi backend using the base URL in .env.
 
-
+<br><br>
 
 ## 🤖 AI Integration (Gemini API)
 
@@ -128,7 +130,12 @@ The app should now be running at http://localhost:5173
 ## ✅ To-Do & Future Enhancements
 
  (1) Add PDF Preview Modal
+ <br>
  (2) Implement Version Control for Resume Changes
+ <br>
  (3) Integrate LinkedIn or Resume Parsing
+ <br>
  (4) Drag-and-drop resume section ordering
+ <br>
  (5) Auto-save on field change
+ <br>
