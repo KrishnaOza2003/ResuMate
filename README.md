@@ -73,6 +73,7 @@ cd resumate-ai-resume-builder
 npm install
 ```
 
+
 ### 3. Set Up Environment Variables
 Create a .env file in the root of your project with the following keys:
 
@@ -81,4 +82,53 @@ Create a .env file in the root of your project with the following keys:
     VITE_GEMINI_API_KEY=your_gemini_api_key
 
 
+Make sure your Strapi backend and Clerk dashboard are configured accordingly.
 
+
+### 4. Run the Development Server
+    npm run dev
+The app should now be running at http://localhost:5173
+
+## 🧪 Folder Structure
+
+    ├── public/
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── hooks/
+    │   ├── utils/
+    │   └── App.jsx
+    ├── .env
+    ├── index.html
+    ├── tailwind.config.js
+    └── vite.config.js
+
+
+## 📂 Backend Setup (Strapi CMS)
+
+
+(1) Install and run Strapi:
+```bash
+    npx create-strapi-app backend --quickstart
+```
+    
+(2) Define the necessary content types (Resume, User, etc.)
+
+(3) Enable CORS and set appropriate API permissions.
+
+(4) Connect your frontend app to the Strapi backend using the base URL in .env.
+
+
+
+## 🤖 AI Integration (Gemini API)
+
+(1) You can find the Gemini API key by visiting Google AI Studio.
+(2) Make sure you handle all prompts and AI interactions securely on the frontend.
+
+## ✅ To-Do & Future Enhancements
+
+ (1) Add PDF Preview Modal
+ (2) Implement Version Control for Resume Changes
+ (3) Integrate LinkedIn or Resume Parsing
+ (4) Drag-and-drop resume section ordering
+ (5) Auto-save on field change
